@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ConnorKimball
 - 👀 I’m interested in computational theory and mathematics.
-- 🌱 I’m currently learning how to create a webserver for my Martial Arts hobby.
-- 💞️ I’m looking to collaborate on KenpoNet.
+- 🌱 I’m currently learning how to create a locally hosted LLM.
 - 📫 How to reach me: mrconnorkimball@gmail.com
 
 <!---
